@@ -1,3 +1,11 @@
 5.png:
 (steampunkai), old desk with books steampunk
 Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2521209713, Size: 704x512, Model hash: 199c4093f6, Model: steampunkai_steampunkV10, Denoising strength: 0.31, Mask blur: 15
+
+6.png:
+(colorfulsurrealism)++, (surrealism),(steampunkai), old desk with books steampunk style John Collier hyperrealistic
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2521209713, Size: 736x512, Model hash: db3a7c7c46, Model: 0.7(colorfulsurrealismai_V10) + 0.3(steampunkai_steampunkV10), Denoising strength: 0.7, Mask blur: 4
+
+7.png:
+(surrealism)++,(steampunkai), old desk with vynil discs and books style John Collier with surrealistics clock
+Steps: 12, Sampler: Euler a, CFG scale: 7, Seed: 2521209713, Size: 736x512, Model hash: db3a7c7c46, Model: 0.7(colorfulsurrealismai_V10) + 0.3(steampunkai_steampunkV10), Denoising strength: 0.5, Mask blur: 4
